@@ -4,7 +4,6 @@
     height: 400px;
 }
 
-
 .fonte-titulo {
     font-family: 'Pacifico', cursive;
 }
@@ -19,11 +18,8 @@
 }
 
 .borda-cor-especial {
-    border-color: darkred;
+    border-color: black;
     
 }
 
-.cd-flex justify-content-around {
-    flex-wrap: nowrap | wrap | wrap-reverse;
-}
 
